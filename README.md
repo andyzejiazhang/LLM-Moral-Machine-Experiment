@@ -51,7 +51,7 @@ Scores are normalised to a −1 to +1 preference scale. Results are benchmarked 
 
 ### Social Value — the sharpest divergence
 
-**Social value** produces the most philosophically striking cross-model divergence in the dataset. GPT-5.2 shows a consistent positive preference (~+0.25) for saving higher-status individuals. Claude sits near zero — effectively no preference. DeepSeek inverts this entirely, scoring around −0.30 in the direction of saving *lower*-status individuals.
+**Social value** produces the most philosophically striking cross-model divergence in the dataset. GPT-5.2 shows a consistent positive preference ~+0.25 for saving higher-status individuals. Claude sits near zero — effectively no preference. DeepSeek inverts this entirely, scoring around −0.30 in the direction of saving *lower*-status individuals.
 
 This three-way divergence, in opposite directions, is unlikely to be explained by random variation. It suggests that training data provenance and RLHF fine-tuning procedures leave detectable and directionally opposed ideological traces in moral cognition — even when the models are otherwise behaviourally similar on most other dimensions.
 
@@ -61,7 +61,7 @@ All three models cluster very strongly toward saving more lives ~+0.95 for GPT a
 
 ### Species — graded divergence
 
-GPT-5.2 shows a moderate preference for saving humans over animals (~+0.40); Claude is somewhat weaker (~+0.30); DeepSeek sits near zero (~−0.10), showing almost no consistent species preference. This gradient may reflect differences in training corpora or the treatment of animal welfare across Chinese and Western AI development contexts.
+GPT-5.2 shows a moderate preference for saving humans over animals ~+0.40; Claude is somewhat weaker ~+0.30; DeepSeek sits near zero ~−0.10, showing almost no consistent species preference. This gradient may reflect differences in training corpora or the treatment of animal welfare across Chinese and Western AI development contexts.
 
 ### Other dimensions — near zero across all models
 
