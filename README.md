@@ -57,7 +57,7 @@ This three-way divergence, in opposite directions, is unlikely to be explained b
 
 ### Utilitarianism — strong convergence
 
-All three models cluster very strongly toward saving more lives (~+0.95 for GPT and Claude; ~+0.60 for DeepSeek), regardless of other features. This convergence across architecturally distinct models may suggest that utilitarian reasoning is either deeply embedded in shared training data, or relatively robust to the architectural and fine-tuning variations that drive divergence elsewhere.
+All three models cluster very strongly toward saving more lives ~+0.95 for GPT and Claude; ~+0.60 for DeepSeek, regardless of other features. This convergence across architecturally distinct models may suggest that utilitarian reasoning is either deeply embedded in shared training data, or relatively robust to the architectural and fine-tuning variations that drive divergence elsewhere.
 
 ### Species — graded divergence
 
